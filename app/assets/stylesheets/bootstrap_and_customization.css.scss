@@ -1,7 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+
+
 $body-bg:    				#cdffe6;
+$font-family-sans-serif:  	Pacifico;
 $navbar-inverse-bg: 		#ccb4e5;
 $navbar-inverse-link-color: #ffffcd;
 $brand-primary: 			#ff64cb;
 $jumbotron-bg: 				#FFFFFF;
+
+.center {
+text-align: center;
+}
+
+.header-margin {
+	margin-bottom: 50px;
+}
 
 @import 'bootstrap';
